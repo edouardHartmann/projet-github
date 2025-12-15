@@ -27,3 +27,25 @@ EXCUTION :
 
 
 
+1\. Cloner ou télécharger le projet :
+
+
+
+git clone https://github.com/nom-utilisateur/nom-du-projet.git
+
+
+
+2.Ouvrir le projet dans l’IDE.
+
+3.Vérifier que le dossier src est bien reconnu comme source.
+
+4.Lancer la classe Main.
+
+5.Le menu s’affiche dans la console.
+
+
+
+
+
+
+
