@@ -31,7 +31,7 @@ EXCUTION :
 
 
 
-git clone https://github.com/nom-utilisateur/nom-du-projet.git
+git clone https://github.com/edouardHartmann/projet-github.git
 
 
 
