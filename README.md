@@ -15,7 +15,7 @@ Instruction:
 
 OUVRIRE:
 
--Acceder au depot grace au lien "..."
+-Acceder au depot grace au lien "https://github.com/edouardHartmann/projet-github"
 
 -Pour ouvrir les dossiers , sélectionné le dossier de votre ordinateur sur lequel vous voulez enregistrer 
 
